@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dcm4chee-xds2-infoset-2.0.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../11/dcm4chee-xds/dcm4chee-xds2-infoset/target/dcm4chee-xds2-infoset-2.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

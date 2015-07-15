@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pocdemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="pocdemo.war">
+      <element id="artifact" artifact-name="pocdemo:war exploded" />
+    </root>
+  </artifact>
+</component>
